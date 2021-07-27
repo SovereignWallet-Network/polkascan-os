@@ -1,6 +1,9 @@
 [submodule "harvester"]
 	path = harvester
-	url = https://github.com/SovereignWallet-Network/MetaMUI-Explorer-Harvester.git
+	url = https://github.com/SovereignWallet-Network/muiscan-pre-harvester.git
 [submodule "explorer-api"]
 	path = explorer-api
-	url = https://github.com/SovereignWallet-Network/MetaMUI-Explorer-API.git
+	url = https://github.com/SovereignWallet-Network/muiscan-pre-explorer-api.git
+[submodule "explorer-gui"]
+	path = explorer-gui
+	url = https://github.com/SovereignWallet-Network/muiscan-pre-explorer-gui.git
